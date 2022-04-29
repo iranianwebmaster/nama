@@ -3,7 +3,7 @@ title: نمای کامپوزیت 09122448082
 email: compositeisfahan.ir@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   نمای کامپوزیت قیمت لیست اجرای نمای کامپوزیت در تهران تابلو مغازه ویلایی نمای کامپوزیت ساختمان مسکونی عکس مشهد شیراز کرج
-baseurl: "nama" # the subpath of your site, e.g. /blog
+baseurl: "/nama" # the subpath of your site, e.g. /blog
 url: "https://iranianwebmaster.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  jekyll
