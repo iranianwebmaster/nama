@@ -11,7 +11,6 @@ url: "https://iranianwebmaster.github.io" # the base hostname & protocol for you
 # Build settings
 markdown: kramdown
 # theme: jekyll-hilmi
-permalink: /nama/:title
 # Theme setting
 author: نمای کامپوزیت
 nick:   composite facade

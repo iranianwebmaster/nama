@@ -5,7 +5,7 @@ author: "اصلانی"
 avatar: "images/authors/aslani.png"
 image: "/nama/images/نمای-کامپوزیت-ساختمان-مجتمع-فردوس-10.webp"
 date:   2022-04-29 12:12:12
-premlink: /نمای-کامپوزیت/
+permalink: /:title
 layout: post
 ---
 
